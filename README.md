@@ -1,2 +1,9 @@
-# EchoClassification
-Echo classification algorithms
+# Echo Classification
+
+Echo classification is the process of assigning acoustic backscatter to a category that is meaningful to the person using the data. Classification ideally assigns backscatter to species-level taxa, but includes classification to lower taxonomic-levels, trophic levels, or acoustic scattering types. Routine processes developed at each Science Center are still time consuming and not directly transferable to automated, real-time decision making that could greatly improve survey capabilities using autonomous platforms, and they do not currently take full advantage of emerging sources of wide-bandwidth technology across a full spectrum from low-frequencies to echosounders to acoustic-cameras. We will revolutionize echo classification by developing processing techniques and building a cloud-based framework that will promote development and implementation of advanced analytical methods to classify backscatter to the lowest taxonomic level possible in near-real time.  
+
+The Echo Classification repository is organized by each method/algorithm and each has its own subdirectory within this repo. 
+
+## Disclaimer
+This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products,  processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
+
